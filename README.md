@@ -21,10 +21,7 @@ O projeto demonstra as seguintes etapas essenciais do pipeline de PLN:
    Redução das palavras às suas formas radicais (ex: *processamento → process*), utilizando o algoritmo `RSLPStemmer`.
 
 4. **Cálculo da Riqueza Lexical**  
-   Métrica simples de diversidade de vocabulário:  
-   \[
-   \frac{\text{Palavras Únicas}}{\text{Palavras Totais Significativas}}
-   \]
+   Métrica simples de diversidade de vocabulário:Palavras Únicas/Palavras Totais Significativas
 
 5. **Análise de Frequência**  
    Identificação dos radicais mais comuns, sinalizando o foco temático do texto.
