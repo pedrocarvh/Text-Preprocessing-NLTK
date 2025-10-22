@@ -48,7 +48,7 @@ O projeto está formatado como um **Notebook** para facilitar a visualização e
 ### Passo a passo:
 1. **Acesse o Notebook:**  
 
-  [Clique Aqui para Abrir no GitHub](https://github.com/pedrocarvh/Text-Preprocessing-NLTK/blob/main/NLTK_Text_Analyzer.ipynb)
+  [Clique Aqui para Abrir o Notebook]([https://github.com/pedrocarvh/Text-Preprocessing-NLTK/blob/main/NLTK_Text_Analyzer.ipynb](https://colab.research.google.com/drive/1FGDrtRtanFFFAm0h6BBa2kTBEEa6bUlM?usp=sharing))
 
 3. **Execute as Células:**
    - Execute a primeira célula para instalar as dependências:  
