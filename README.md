@@ -50,7 +50,7 @@ O projeto está formatado como um **Notebook** para facilitar a visualização e
 
 [Clique Aqui para Abrir o Notebook no Colab](https://colab.research.google.com/drive/1FGDrtRtanFFFAm0h6BBa2kTBEEa6bUlM?usp=sharing)
 
-3. **Execute as Células:**
+2. **Execute as Células:**
    - Execute a primeira célula para instalar as dependências:  
      ```python
      !pip install nltk
