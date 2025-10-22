@@ -62,23 +62,29 @@ O projeto está formatado como um **Notebook** para facilitar a visualização e
 ---
 
 ## 💡 Exemplo de Saída
-RELATÓRIO DE ANÁLISE DE TEXTO     
+
+========================================
+     RELATÓRIO DE ANÁLISE DE TEXTO     
+========================================
 
 [1] Visão Geral do Vocabulário:
- - Palavras Totais (Tokens): 45
- - Palavras Únicas: 20
- - Radicais Únicos: 14
- - Riqueza Lexical (Diversidade): **0.8000**
+ - Palavras Significativas (Total): 295
+ - Palavras Únicas: 232
+ - Radicais Únicos: 253
+ - Riqueza Lexical (Diversidade): **0.7864**
    *Métrica: Palavras Únicas / Palavras Significativas Totais
 
 [2] Frequência Temática (Top 10 Radicais):
- 1. 'prátic': 3 ocorrências
- 2. 'nltk': 2 ocorrências
- 3. 'pln': 2 ocorrências
- 4. 'process': 1 ocorrência
- 5. 'lingu': 1 ocorrência
-... (e assim por diante)
-
+ 1. 'brasil': 5 ocorrências
+ 2. 'governo': 4 ocorrências
+ 3. 'bermudas': 3 ocorrências
+ 4. 'onde': 3 ocorrências
+ 5. 'todas': 3 ocorrências
+ 6. 'justiça': 3 ocorrências
+ 7. 'vergonha': 3 ocorrências
+ 8. 'todos': 3 ocorrências
+ 9. 'triangulo': 2 ocorrências
+ 10. 'tamanho': 2 ocorrências
 
 ## 🧑‍💻 Autor
 **Nome:** [Pedro Carvalho Almeida]  
