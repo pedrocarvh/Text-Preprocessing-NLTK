@@ -34,7 +34,7 @@ O projeto demonstra as seguintes etapas essenciais do pipeline de PLN:
 |----------|------------|
 | **Linguagem** | Python |
 | **Biblioteca Principal** | NLTK (Natural Language Toolkit) |
-| **Ambiente** | Google Colab (ou Jupyter Notebook) |
+| **Ambiente** | Google Colab |
 
 ---
 
