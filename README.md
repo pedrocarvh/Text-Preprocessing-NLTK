@@ -47,9 +47,10 @@ O projeto está formatado como um **Notebook** para facilitar a visualização e
 
 ### Passo a passo:
 1. **Acesse o Notebook:**  
-   [Clique Aqui para Abrir no Colab](Insira o link para o seu notebook .ipynb no GitHub ou Google Drive aqui)
 
-2. **Execute as Células:**
+  [Clique Aqui para Abrir no GitHub](https://github.com/pedrocarvh/Text-Preprocessing-NLTK/blob/main/NLTK_Text_Analyzer.ipynb)
+
+3. **Execute as Células:**
    - Execute a primeira célula para instalar as dependências:  
      ```python
      !pip install nltk
